@@ -18,7 +18,9 @@ public:
                 x*=x;
             }
         }
-       if (m < 0) ans = (double)(1.0) / (double)(ans);
-  return ans;
+        if(m<0)
+            return 1/ans;
+        else
+            return ans;
     }
 };
