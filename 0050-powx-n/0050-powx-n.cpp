@@ -19,7 +19,7 @@ public:
             }
         }
         if(m<0)
-            return 1/ans;
+            return 1*1LL/ans;
         else
             return ans;
     }
