@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0090-subsets-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -29,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
