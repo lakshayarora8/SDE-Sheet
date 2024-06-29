@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0090-subsets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
