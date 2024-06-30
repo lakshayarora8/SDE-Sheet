@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0046-permutations) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
