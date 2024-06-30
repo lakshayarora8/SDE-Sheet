@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -84,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
