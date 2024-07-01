@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
@@ -48,18 +49,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -110,9 +115,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
