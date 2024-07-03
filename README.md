@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 | [1880-largest-merge-of-two-strings](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1880-largest-merge-of-two-strings) |
 ## Stack
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
 ## Binary Tree
 |  |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
 ## Hash Table
 |  |
