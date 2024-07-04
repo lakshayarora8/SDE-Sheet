@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
