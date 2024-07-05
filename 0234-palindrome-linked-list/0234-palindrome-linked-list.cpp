@@ -20,14 +20,7 @@ public:
     bool isPalindrome(ListNode* head) {
         if(head->next ==NULL)
         return true;
-        if(head->next->next == NULL)
-        {
-            if(head->val == head->next->val)
-            return true;
-            return false;
-        }
       
-    
         ListNode* slow=head,*fast=head;
 
         while( fast->next!=NULL && fast->next->next!=NULL )
@@ -35,15 +28,14 @@ public:
             slow=slow->next;
             fast=fast->next->next;
         }
-        ListNode* dummy=reverse(slow->next);
-        slow->next=dummy;
-
-        while(dummy != NULL)
+        slow->next=reverse(slow->next);
+        slow=slow->next;
+        while(slow != NULL)
         {
-            if(dummy->val != head->val)
+            if(slow->val != head->val)
             return false;
 
-            dummy=dummy->next;
+            slow=slow->next;
             head=head->next;
         }
         return true;
