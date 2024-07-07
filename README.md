@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0039-combination-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0031-next-permutation) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
