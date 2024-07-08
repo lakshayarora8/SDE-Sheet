@@ -7,14 +7,12 @@ public:
         v[i]=i+1;
         int i=0;
         k--;
-        int eliminated;
         while(v.size() != 1)
         {
             int n=v.size();
-            eliminated=(i+k)%n;
-            int nextplayer=eliminated;
+            int eliminated=(i+k)%n;
             v.erase(v.begin()+(i+k)%n);
-            i=nextplayer;
+            i=eliminated;
         }
         return v[0];
         
