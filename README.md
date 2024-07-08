@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0733-flood-fill) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Backtracking
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0002-add-two-numbers) |
 | [1642-water-bottles](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,10 +217,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0733-flood-fill) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
