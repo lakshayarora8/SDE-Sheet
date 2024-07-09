@@ -1,18 +1,19 @@
 class Solution {
 public:
-    bool ans=true;
-    void dfs(int u,vector<int>& color,vector<vector<int>>& graph,int currcolor)
+
+    bool dfs(int u,vector<int>& color,vector<vector<int>>& graph,int currcolor)
     {
         color[u]=currcolor;
 
         for(auto v: graph[u])
         {
             if(color[v] == currcolor)
-            ans= false;
+            return false;
             if(color[v] == -1)
-            dfs(v,color,graph,1-currcolor);
+            if(dfs(v,color,graph,1-currcolor) == false)
+            return false;
         }
-
+        return true;
     }
 
     bool isBipartite(vector<vector<int>>& graph) {
@@ -22,11 +23,11 @@ public:
 
         for(int i=0;i<n;i++)
         {
-            if(color[i] == -1 )
+            if(color[i] == -1 &&  dfs(i,color,graph,0)==false )
             {
-                dfs(i,color,graph,0);
+               return false;
             }
         }
-        return ans;
+        return true;
     }
 };
