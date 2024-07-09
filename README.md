@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Topological Sort
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0801-is-graph-bipartite) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Dynamic Programming
 |  |
