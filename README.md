@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
