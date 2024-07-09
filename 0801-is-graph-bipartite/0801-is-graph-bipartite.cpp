@@ -1,17 +1,28 @@
 class Solution {
 public:
 
-    bool dfs(int u,vector<int>& color,vector<vector<int>>& graph,int currcolor)
+    bool bfs(int u,vector<int>& color,vector<vector<int>>& graph,int currcolor)
     {
-        color[u]=currcolor;
+        queue<pair<int,int>> q;
+        q.push({u,currcolor});
 
-        for(auto v: graph[u])
+        while(!q.empty())
         {
-            if(color[v] == currcolor)
-            return false;
-            if(color[v] == -1)
-            if(dfs(v,color,graph,1-currcolor) == false)
-            return false;
+            int node=q.front().first;
+            int curr=q.front().second;
+            q.pop();
+            for(auto v: graph[node])
+            {
+                if(color[v] == curr)
+                {
+                    return false;
+                }
+                else if(color[v] == -1)
+                {
+                    q.push({v,1-curr});
+                    color[v]=1-curr;
+                }
+            }
         }
         return true;
     }
@@ -23,7 +34,7 @@ public:
 
         for(int i=0;i<n;i++)
         {
-            if(color[i] == -1 &&  dfs(i,color,graph,0)==false )
+            if(color[i] == -1 &&  bfs(i,color,graph,0)==false )
             {
                return false;
             }
