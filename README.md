@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0133-clone-graph) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
 ## Linked List
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0199-binary-tree-right-side-view) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0199-binary-tree-right-side-view) |
