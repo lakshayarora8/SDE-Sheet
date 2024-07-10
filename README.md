@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
