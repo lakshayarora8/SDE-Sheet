@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
+| [0516-longest-palindromic-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1250-longest-common-subsequence) |
 | [1880-largest-merge-of-two-strings](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1880-largest-merge-of-two-strings) |
 ## Stack
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1250-longest-common-subsequence) |
 ## Tree
 |  |
