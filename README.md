@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Union Find
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1170-shortest-common-supersequence) |
