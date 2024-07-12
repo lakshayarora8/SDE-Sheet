@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0044-wildcard-matching) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1880-largest-merge-of-two-strings](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1880-largest-merge-of-two-strings) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
