@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2846-robot-collisions) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Backtracking
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2846-robot-collisions](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
+| [2846-robot-collisions](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
 | ------- |
