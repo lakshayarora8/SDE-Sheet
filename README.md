@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0583-delete-operation-for-two-strings) |
+| [0726-number-of-atoms](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0726-number-of-atoms) |
 | [1170-shortest-common-supersequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
+| [0726-number-of-atoms](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
+| [0726-number-of-atoms](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0726-number-of-atoms) |
 ## Monotonic Stack
 |  |
 | ------- |
