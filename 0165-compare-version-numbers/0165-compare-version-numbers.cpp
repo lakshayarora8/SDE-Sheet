@@ -10,15 +10,11 @@ public:
             int v1=0,v2=0;
             while(i<m && s[i] != '.')
             {
-                v1*=10;
-                v1+=s[i]-'0';
-                i++;
+                v1=v1*10 + (s[i++]-'0');
             }
             while(j<n && t[j] != '.')
             {
-                v2*=10;
-                v2+=t[j]-'0';
-                j++;
+                v2=v2*10 + (t[j++]-'0');    
             }
             if(v1>v2)return 1;
             else if(v2>v1) return -1;
