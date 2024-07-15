@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0115-distinct-subsequences) |
