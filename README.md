@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0115-distinct-subsequences) |
+| [0165-compare-version-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0516-longest-palindromic-subsequence) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0031-next-permutation) |
+| [0165-compare-version-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
