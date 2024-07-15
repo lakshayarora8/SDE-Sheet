@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0726-number-of-atoms) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0583-delete-operation-for-two-strings) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
