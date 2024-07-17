@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0726-number-of-atoms) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0031-next-permutation) |
 | [0165-compare-version-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1880-largest-merge-of-two-strings](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1880-largest-merge-of-two-strings) |
@@ -332,8 +335,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0295-find-median-from-data-stream) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0173-binary-search-tree-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
