@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0044-wildcard-matching) |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
