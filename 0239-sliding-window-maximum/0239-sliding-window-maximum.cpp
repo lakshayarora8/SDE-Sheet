@@ -5,15 +5,17 @@ public:
 
         int i=0,j=0,n=nums.size();
         vector<int> ans;
-        multiset<int> st;
+        deque<int> dq;
         while(j<n)
         {
-            st.insert(nums[j]);
+            while(!dq.empty() && dq.back() < nums[j])
+            dq.pop_back();
+            dq.push_back(nums[j]);
             if(j-i+1 == k)
             {
-                ans.push_back(*st.rbegin());
-                auto it=st.find(nums[i]);
-                st.erase(it);
+                ans.push_back(dq.front());
+                if(nums[i] == dq.front())
+                dq.pop_front();
                 i++;
             }
             j++;
