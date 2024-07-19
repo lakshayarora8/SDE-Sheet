@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0038-count-and-say) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0013-roman-to-integer) |
 | [1642-water-bottles](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2645-pass-the-pillow) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0242-valid-anagram) |
