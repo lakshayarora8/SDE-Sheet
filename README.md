@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0060-permutation-sequence) |
 | [1642-water-bottles](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2645-pass-the-pillow) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
