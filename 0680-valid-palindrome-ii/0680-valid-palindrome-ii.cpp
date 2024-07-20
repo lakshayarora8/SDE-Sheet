@@ -1,32 +1,23 @@
 class Solution {
 public:
+    bool flag = 0;
     bool validPalindrome(string s) {
-
-        //  abcdecba    aebcdcba
-        int counter=0;
-        int start=0,end=s.size()-1;
-        while(start <= end)
-        {
-            if(s[start] == s[end])
-            {
-                start++;
-                end--;
-            }
-             else if(s[start+1] == s[end])
-            {
-                start++;
-                counter++;
-            }
-            else if(s[start] == s[end-1])
-            {
-                counter++;
-                end--;
-            }
-           
-            else
-            return false;
-            if(counter > 1) return false;
-        }
-        return true;
+        return helper(s, 0, s.size() - 1);
     }
+    
+    bool helper(string &s, int l, int r) {
+        if(l >= r)
+            return true;
+        
+        // same
+        if(s[l] == s[r])
+            return helper(s, l+1, r-1);
+        // Not same for 2nd time
+        if(flag)
+            return false;
+        // not same for first time
+        flag = 1;
+        return helper(s, l+1, r) || helper(s, l, r-1);
+    }
+    
 };
