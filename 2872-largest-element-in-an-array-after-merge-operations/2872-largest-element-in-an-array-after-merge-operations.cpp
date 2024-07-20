@@ -1,19 +1,22 @@
 class Solution {
 public:
     long long maxArrayValue(vector<int>& nums) {
-
+        
         int n=nums.size();
-        vector<long long> arr(begin(nums),end(nums));
-        reverse(begin(arr),end(arr));
-        long long ans=0;
-        for(int i=0;i<n-1;i++)
-        {
-            if(arr[i] >= arr[i+1])
-            arr[i+1]=arr[i+1]+arr[i];
-
-            ans=max(arr[i+1],ans);
+        long long ans=nums[n-1],sum=nums[n-1];
+        for(int i=n-2;i>=0;i--)
+        {   
+            if(sum >= nums[i])
+            {
+                sum+=nums[i];
+            }
+            else
+            {
+                ans=max(ans,sum);
+                sum=nums[i];
+            }
         }
-        return max(ans,arr[0]);
-
+        return max(sum,ans);
+        
     }
 };
