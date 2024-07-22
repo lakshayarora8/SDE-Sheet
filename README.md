@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2846-robot-collisions) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 ## Backtracking
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0778-reorganize-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1880-largest-merge-of-two-strings](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1880-largest-merge-of-two-strings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0726-number-of-atoms](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0778-reorganize-string) |
+| [2502-sort-the-people](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2502-sort-the-people) |
 ## Monotonic Stack
 |  |
 | ------- |
