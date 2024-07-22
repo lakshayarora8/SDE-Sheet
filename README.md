@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1036-rotting-oranges) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0414-third-maximum-number) |
 | [0726-number-of-atoms](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0778-reorganize-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
