@@ -8,8 +8,7 @@ public:
         {
             p.push_back({heights[i],i});
         }
-        sort(p.begin(),p.end());
-        reverse(begin(p),end(p));
+        sort(p.rbegin(),p.rend());
         vector<string> ans(n);
 
         for(int i=0;i<n;i++)
