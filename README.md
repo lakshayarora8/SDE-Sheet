@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0300-longest-increasing-subsequence) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0583-delete-operation-for-two-strings) |
