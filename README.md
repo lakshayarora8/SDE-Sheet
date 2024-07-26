@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0014-longest-common-prefix) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0072-edit-distance) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0031-next-permutation) |
