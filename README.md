@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0213-house-robber-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0801-is-graph-bipartite) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0242-valid-anagram) |
