@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0210-course-schedule-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/lakshayarora8/SDE-Sheet/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/lakshayarora8/SDE-Sheet/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/lakshayarora8/SDE-Sheet/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
